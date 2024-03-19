@@ -14,5 +14,11 @@
   },
   "dependencies": {
     "superheroes": "^3.0.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "first",
+    "node",
+    "js"
+  ]
 }
