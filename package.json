@@ -1,24 +1,8 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "nodejs first project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Bhavil Jain",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bhaviljain"
-  },
   "dependencies": {
-    "superheroes": "^3.0.0"
-  },
-  "devDependencies": {},
-  "keywords": [
-    "first",
-    "node",
-    "js"
-  ]
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "nodemon": "^3.1.4",
+    "react-router-dom": "^6.24.0"
+  }
 }
